@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
-import React from "react";
-import "./Home.scss";
+import React from 'react';
+import './Home.scss';
 
 function Home() {
   return (
@@ -14,21 +14,20 @@ function Home() {
           <div className="row">
             <div className="col-1-of-2">
               <h3 className="heading-tertiary u-margin-bottom-small">
-                Your Going to fall in love with nature
+                Our Vision
               </h3>
               <p className="paragraph">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aliquam animi architecto culpa delectus dolorem eaque ex hic,
-                illo inventore iusto optio quam quas qui recusandae suscipit
-                temporibus veritatis voluptatibus? Sit.
+                We aim to provide fresh fruits and vegetables to the people of
+                our community. We also aim to provide a platform for the farmers
+                to sell their products directly to the consumers.
               </p>
 
               <h3 className="heading-tertiary u-margin-bottom-small">
-                Live adventures like you never have before
+                Our Mission
               </h3>
               <p className="paragraph">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aliquam animi architecto culpa delectus dolorem eaque ex hic.
+                Our mission is to be your partner towards a healthier and more
+                sustainable lifestyle.
               </p>
 
               <a href="/" className="btn-text">
@@ -63,7 +62,7 @@ function Home() {
           </div>
         </section>
 
-        <section className="section-features">
+        {/* <section className="section-features">
           <div className="row">
             <div className="col-1-of-4">
               <div className="feature-box">
@@ -117,7 +116,7 @@ function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
 
         <section className="section-tours" id="section-tours">
           <div className="u-center-text u-margin-bottom-big">
@@ -339,7 +338,7 @@ function Home() {
           </div>
         </section>
 
-        <section className="section-stories">
+        {/* <section className="section-stories">
           <div className="bg-video">
             <video className="bg-video__content" autoPlay muted loop>
               <source src="img/video.mp4" type="video/mp4" />
@@ -410,7 +409,7 @@ function Home() {
               Read more stories &rarr;
             </a>
           </div>
-        </section>
+        </section> */}
 
         <section className="section-book">
           <div className="row">
