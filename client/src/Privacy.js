@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
-import "./Privacy.scss";
+import './Privacy.scss';
 
 function Privacy() {
   return (
@@ -121,13 +121,11 @@ function Privacy() {
             of your complaints within 1 (one) week.
             <br />
             <br />
-            Name of Grievance Officer: Himanshu Borole
+            Name of Grievance Officer: Ram Patil
             <br />
             Address: A-1, Abhimanshree Society, Pashan Road, Pune.
             <br />
-            Contact Number: 8446628681
-            <br />
-            Email: cultivate@nisargaurja.com
+            Email: director@nisargaurja.com
             <br />
           </p>
         </div>
